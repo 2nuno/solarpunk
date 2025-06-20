@@ -41,7 +41,7 @@ Material:
     - _Glow_Size: 0.1
     - _Highlight_Intensity: 0.5
     - _Highlight_Size: 0.43
-    - _Outline_Size: 0.3
+    - _Outline_Size: 0.2
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Shadows_Contrast: 1
@@ -50,8 +50,8 @@ Material:
     - _Base_Color: {r: 1, g: 0.89937973, b: 0.75, a: 0}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 0}
     - _Highlight_Color: {r: 1, g: 0.92106247, b: 0.6367924, a: 0}
-    - _Outline_Color: {r: 1, g: 0.9468728, b: 0.8254717, a: 1}
-    - _Shadows_Color: {r: 0.8490566, g: 0.70499456, b: 0.46858314, a: 0}
+    - _Outline_Color: {r: 1, g: 0.8884434, b: 0.740566, a: 1}
+    - _Shadows_Color: {r: 0.8679245, g: 0.7179928, b: 0.47080812, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7523208459516627033
 MonoBehaviour:
