@@ -38,20 +38,20 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Glow_Size: 0.15
-    - _Highlight_Intensity: 3.02
-    - _Highlight_Size: 3.32
-    - _Outline_Size: 0.35
+    - _Glow_Size: 0
+    - _Highlight_Intensity: 0.2
+    - _Highlight_Size: -10.64
+    - _Outline_Size: -1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shadows_Contrast: 0
-    - _Shadows_Size: 0
+    - _Shadows_Contrast: 1.91
+    - _Shadows_Size: 0.45
     m_Colors:
-    - _Base_Color: {r: 0.23829655, g: 0.24978307, b: 0.3301887, a: 1}
+    - _Base_Color: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 0}
-    - _Highlight_Color: {r: 0.3254717, g: 0.59600484, b: 1, a: 0}
+    - _Highlight_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Outline_Color: {r: 0, g: 0, b: 0, a: 1}
-    - _Shadows_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Shadows_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7523208459516627033
 MonoBehaviour:
