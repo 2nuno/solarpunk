@@ -45,7 +45,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Shadows_Contrast: 5
-    - _Shadows_Size: 0.65
+    - _Shadows_Size: 0
     m_Colors:
     - _Base_Color: {r: 0, g: 0.9013953, b: 1, a: 0}
     - _HighlightColor: {r: 1, g: 0.7858338, b: 0, a: 1}
