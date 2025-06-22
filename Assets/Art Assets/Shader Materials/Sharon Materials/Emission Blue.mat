@@ -41,7 +41,7 @@ Material:
     - _Glow_Size: 0.15
     - _Highlight_Intensity: 0.4
     - _Highlight_Size: -1.51
-    - _Outline_Size: 0.19
+    - _Outline_Size: -27.81
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Shadows_Contrast: 5
