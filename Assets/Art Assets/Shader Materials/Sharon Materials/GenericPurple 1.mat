@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HoogCathaRijneText 1
+  m_Name: GenericPurple 1
   m_Shader: {fileID: -6465566751694194690, guid: 860444d4db87f874fb7c5ae644f8f5f1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -39,19 +39,19 @@ Material:
     m_Ints: []
     m_Floats:
     - _Glow_Size: 0.15
-    - _Highlight_Intensity: 0.35
-    - _Highlight_Size: -1.51
-    - _Outline_Size: 0.19
+    - _Highlight_Intensity: 0.18
+    - _Highlight_Size: 0.55
+    - _Outline_Size: 0.4
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shadows_Contrast: 0.2
-    - _Shadows_Size: 1.8
+    - _Shadows_Contrast: 1
+    - _Shadows_Size: 1
     m_Colors:
-    - _Base_Color: {r: 0.7503734, g: 0.8301887, b: 0.6148096, a: 0}
-    - _HighlightColor: {r: 1, g: 0.7858338, b: 0, a: 1}
-    - _Highlight_Color: {r: 0.8962264, g: 0.5956607, b: 0.114142045, a: 0}
-    - _Outline_Color: {r: 0.45827922, g: 0.509434, b: 0.26192597, a: 1}
-    - _Shadows_Color: {r: 0.13563547, g: 0.2264151, b: 0.15420403, a: 0}
+    - _Base_Color: {r: 0.3438844, g: 0.24474901, b: 0.41509432, a: 0}
+    - _HighlightColor: {r: 0.990566, g: 0.60275006, b: 0.8182033, a: 1}
+    - _Highlight_Color: {r: 0.98386794, g: 0.7311321, b: 1, a: 0}
+    - _Outline_Color: {r: 0.48678353, g: 0.41108933, b: 0.5849056, a: 1}
+    - _Shadows_Color: {r: 0.18342541, g: 0.033819854, b: 0.3773585, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7523208459516627033
 MonoBehaviour:
