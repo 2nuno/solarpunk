@@ -131,8 +131,21 @@ public class FirstPersonController : MonoBehaviour
 
     #endregion
 
+    private static FirstPersonController instance;
+
     private void Awake()
     {
+        // Persistence through Loads
+        if (instance != null && instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+
+        instance = this;
+        DontDestroyOnLoad(gameObject);
+
+
         rb = GetComponent<Rigidbody>();
 
         crosshairObject = GetComponentInChildren<Image>();
